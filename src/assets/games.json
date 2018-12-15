@@ -1,0 +1,315 @@
+{
+    "title":"gaming",
+"games":[
+    {
+ "image":"assets/GameBox.jpg",      
+ "Name":"League Of Legends",
+ "Developer":"Riot Games",
+ "Release":"October 27, 2009",
+ "Platforms":"Windows,Mac",
+ "Price":"$49.99",
+ "Rating":"4.5",
+ "Review":"League of Legends exists in a magical place that lies somewhere between intense competition and fun and enjoyable strategy. Though there’s a lot to master with a roster of nearly 130 playable Champions, League of Legends is equipped with great modes that make the MOBA easy to learn, yet is still incredibly challenging as players scale the competitive ladder. While the excellent Summoner’s Rift stands as the primary battleground for competitive play, the other modes like ARAM, or All Random All Middle, also provide a great means for a fun chance to practice with Champions for when things get too tense.Developer Riot’s initiative to reboot League of Legends’ lore has also made it more captivating on the narrative front as well. Each new Champion or Champion makeover is presented with such beautiful pageantry that it’s difficult not to get sucked into catching up on any lore you may have missed. With continuous improvement updates and a constantly changing roster, League of Legends stands as one of the best competitive games in existence."
+},
+{
+    "image":"assets/Fallout2.jpg",      
+    "Name":"Fallout 2",
+    "Developer":"Black Isle Studios",
+    "Release":"September 30, 1998",
+    "Platforms":"Windows,Mac",
+    "Price":"$14.00",
+    "Rating":"4.0",
+    "Review":"Starting the journey of Fallout 2 as a tribesman with nothing more than a loincloth and a spear to my name and gradually fighting my way up to a power-armored, gauss-gunning killing machine is a fantastic and surprisingly natural feeling of progression – one that few games have been able to match. Exploring a vast and open post-apocalyptic world full of deadly raiders, supermutants, and deathclaws is daunting but exciting, and thanks to attention to detail, atmospheric music, powerfully written morally ambiguous quests, and voice-acted interactions with key characters, the world feels personal and vivid even though we view it from a distant third-person camera.In fact, it’s a game you have to replay just to appreciate how flexible and open it really is. I’ve done it so many times, experimenting with the ways in which different character builds and perks would dramatically affect the way events unfolded, from killing the final “boss” using stealth to playing all the way through with a character so dumb they can only communicate through grunts. Plus, you never knew when you’d stumble upon random events that would sometimes deliver game-changingly powerful items. Fallout 2 will surprise you again and again."
+},
+{
+    "image":"assets/pGo.jpg",      
+    "Name":"Pokemon Go",
+    "Developer":"Niantic, The Pokémon Company",
+    "Release":" July 6, 2016",
+    "Platforms":"Windows,Mac",
+    "Price":"Free",
+    "Rating":"3.8",
+    "Review":"Pokémon Go is as relevant for what happens outside of the game as what happens in it. A game that can only be played by exploring the world around you, Pokémon Go made its mark by inspiring huge groups to explore together and established a sense of community that made it an absolute cultural phenomenon. The game itself had a bumpy start but has fostered an incredibly strong community and seen sweeping changes like raid battles, a dynamic weather system, and more, all of which make it feel like the Pokémon adventure we all wished we could have as kids. On top of pioneering brilliant augmented reality integration and truly making it feel like Pokémon are all around you, this one is a special example of the power of nostalgia when combined with new technology."
+},
+{
+    "image":"assets/Contra.jpg",      
+    "Name":"Contra",
+    "Developer":"Konami",
+    "Release":"February 20, 1987",
+    "Platforms":"Arcade, NES/Famicom",
+    "Price":"$10.00",
+    "Rating":"4.6",
+    "Review":"Say it with me: “UP, UP, DOWN, DOWN, LEFT, RIGHT, LEFT, RIGHT, B, A, START.” The most iconic secret in video game history became a litany for the millions of kids who joined Bill and Lance on their quest to destroy Red Falcon. While a truly skilled player can clear Contra on a single credit, the power of the thirty lives code gave all of us a fair chance to power our way through the gauntlet of alien invaders, or more likely die trying. Contra was one of the few cooperative video games of the 8-bit era where player two didn’t feel like a burden dragging you down with every step. With plenty of weapon drops to go around and hordes of enemies coming from every direction, a partner’s firepower was a welcome addition in most situations. And if a friend couldn’t keep up the pace on the waterfall level, you could easily incentivize them to improve their skills by scrolling the screen upward and killing them, which I did whenever my little brother lagged behind."
+},
+{
+    "image":"assets/supermario.jpg",      
+    "Name":"Super Mario Odyssey",
+    "Developer":" Nintendo Entertainment Planning & Development",
+    "Release":"October 27, 2017",
+    "Platforms":"Nintendo Switch",
+    "Price":"$39.99",
+    "Rating":"4.0",
+    "Review":"Super Mario Odyssey takes the best elements from almost every Mario game and still manages to open up to a whole new level with powers and moves like never before. It is both a love letter to what came before it, and a fearless march into bold new territory, filled with treasure around every corner. Odyssey features some of the best world’s I’ve ever had the pleasure of exploring, and the brilliance of its level design continually opens up more secrets for those willing to prove their mastery of the techniques learned and understanding of how the world works. There’s no other way to put it – Super Mario Odyssey is an absolute joy."
+},
+{
+    "image":"assets/shadowtombraider.jpg",      
+    "Name":"Shadow of Tomb Rider",
+    "Developer":"Crystal Dynamics, Eidos Montréal",
+    "Release":"September 14, 2018",
+    "Platforms":"PlayStation 4, Xbox One,Windows, Linux, Mac",
+    "Price":"$59.99",
+    "Rating":"4.2",
+    "Review":"Shadow of the Tomb Raider is the final game in a Lara Croft reboot trilogy, which began with Tomb Raider (2013) and continued with Rise of the Tomb Raider (2015). The first game was combat-heavy, which many Tomb Raider fans felt was antithetical to the puzzle-heavy franchise. Rise of the Tomb Raider was an even-handed split between puzzles and combat, and Shadow is the final step in Lara’s character arc. Combat is sparing and can almost always be done via stealth. The puzzles—ancient tombs laden with weights, counterbalances, pulleys, and booby traps—finally take center stage.The reboot trilogy’s entire aim was to show the audience how Lara Croft became the woman (and the legend) we know her as. In Shadow of the Tomb Raider, we finally see a mature, reflective Lara who acknowledges and takes responsibility for the danger she puts herself in. And now that Lara has her trademark cool exterior, a full-scale remake of Tomb Raider (1996) should be next on the to-do list."
+},
+{
+    "image":"assets/bo4.jpeg",      
+    "Name":"Call Of Duty Black Ops 4",
+    "Developer":"Treyarch, Beenox, Raven Software",
+    "Release":"October 12, 2018",
+    "Platforms":"Playstation 4, Xbox One, PC",
+    "Price":"$59.99",
+    "Rating":"4.4",
+    "Review":"When it comes to Call of Duty games, there are three groups of people. The first group complains that Activision is re-releasing the same game every year. The second group bemoans any change the developers make to a long-established franchise. And the third group? They’re too busy shooting each other with virtual rocket launchers to care what the other two groups think. It’s hard to argue with 15 years of consistent, unprecedented success. The latest entry in the series, Call of Duty: Black Ops 4, is also the first entry with no single-player campaign. Aside from a few contextual solo missions, the entire focus is on multiplayer. All the standard stipulations, like Team Deathmatch, are there, and there’s a brand new battle royale mode, Blackout, in which 100 players fight to the death until a sole survivor remains. It’s not going to dethrone Fortnite, but it’s a necessary addition to keep the franchise relevant to today’s players."
+},
+{
+    "image":"assets/fh.jpg",      
+    "Name":"Forza Horizon 4",
+    "Developer":"Black Isle Studios",
+    "Release":"October 2, 2018",
+    "Platforms":"Xbox One, PC",
+    "Price":"$59.99",
+    "Rating":"4.8",
+    "Review":"A game with style to spare, Forza Horizon 4 celebrates the rush and thrill of driving—over a bumpy dirt road, through a dense, green forest, and across the English countryside. The single-player campaign takes you through all four seasons, with the cars gripping the road and drifting accordingly, in sun, rain, and snow. You can also switch to manual driving and teach yourself to shift up and shift down for extra control, but most players will likely opt for automatic. This is a game where you’re supposed to chill; the developers went for feeling and an adrenaline rush, rather than heavy authenticity. You can even free roam, if you want to slow down, cruise, and explore your surroundings. You just might find you enjoy it as much as actually racing."
+},
+{
+    "image":"assets/gow.jpg",      
+    "Name":"God of War",
+    "Developer":" SIE Santa Monica Studio",
+    "Release":" April 20, 2018",
+    "Platforms":"Playstation 4",
+    "Price":"$49.99",
+    "Rating":"5.0",
+    "Review":"Who knew that a change of scenery could revive a stale character to this extent? God of War (2018) is a soft reboot of Kratos. He’s no longer the Ancient Greek, turned-up-to-11 rage monster that we remember from the seven prior games. This is a more subdued, reflective, Norse-inspired Kratos who wants to teach his young son right from wrong.It would have been easy for the developers to simply take the hack-and-slash conventions and mechanics of the previous games and have us fight trolls instead of Titans. But they went all in and revamped the entire look and feel of things. It’s open world, rather than “on the rails.” Instead of using a freewheeling, cinematic camera that swoops and zooms, this game fixes a static camera right behind Kratos’ shoulder. The Blades of Chaos have been replaced by a more appropriate battle ax, and Kratos’ son, Atreus (voiced by mid90s star Sunny Suljic), accompanies and fights alongside him.Kratos has something to lose this time, and he has motivations beyond revenge. He grows and matures more in this game than in all the prior games combined, giving the player much more of an investment in this franchise than ever before."
+},
+{
+    "image":"assets/spiderman.jpg",      
+    "Name":"Spider-Man",
+    "Developer":"Insomniac Games",
+    "Release":"September 7, 2018",
+    "Platforms":"Playstation 4",
+    "Price":"$59.99",
+    "Rating":"4.0",
+    "Review":"Spider-Man lives and dies by its swinging mechanics. Without them, there’s no point in having a video game about our friendly neighborhood web-slinger. For close to 20 years, ever since we saw Sam Raimi’s first Spider-Man film in theaters, we’ve wanted a game that could recreate that freewheeling tone—that sense of weightlessness as Spidey swings from one building to the next, runs up walls, and makes impossible jumps through traffic. This game delivers on that promise. You’re given a massive, open-world map of Manhattan, and you’re set loose to defeat Dr. Octopus, Rhino, Vulture, and other classic Spidey villains. Along the way, you can beat up small-time crooks and take photos of famous New York landmarks. You can also solve DNA matching puzzles on the smart pads in Peter Parker’s lab. Never have side activities been so simultaneously addictive and inessential; whether you do them or not is entirely your choice. The aforementioned web swinging deserves special mention; it’s in a class by itself. Whether soaring above the rooftops of Manhattan, perching on the peak of the Empire State Building, or running up the Freedom Tower, you feel like a superhero. It's a power trip; as amazing as the rest of the game is, this one aspect is enough to keep you entertained for hours."
+},
+{
+    "image":"assets/ssbu.jpg",
+    "Name":"Super Smash Bros. Ultimate",
+    "Developer":"Nintendo, BANDAI NAMCO Entertainment, Sora Ltd., Bandai Namco Studios",
+    "Release":"December 7, 2018",
+    "Platforms":"Nintendo Switch",
+    "Price":"$49.99",
+    "Rating":"4.7",
+    "Review":"Super Smash Bros. Ultimate was made with confidence—with a cool bravado that says, “We know this formula works. We're building on it.” Ultimate is Smash rules, with Smash mechanics and Smash strategy. It’s also the best game in the franchise to date. Nothing prior has had this level of polish.The new, main mechanics to know about are Spirits, which are collectibles that you acquire in World of Light, Ultimate’s single-player campaign. Spirits are collectible pictures of minor video game characters like Dan Hibiki (Street Fighter), Thwomp (Mario), and Bald Bull (Punch-Out!!). There are 1297 of them, and they provide buffs and immunity abilities to your fighter. You can also combine them to get a perfect storm of abilities and custom match them to counter your opponent. The sheer amount of content is overwhelming. There are 74 playable characters (76 if you include the Pokémon Trainer’s different Pokemon), 103 stages, and over 800 songs. With the upcoming DLC, there’s more of everything on the way. Nintendo has set an impossibly high bar and precedent for itself; any future Smash game will have to do everything Ultimate did, plus more. The game is so thorough, in fact, that it conjures a feeling of finality. Why make another Smash game, ever? Just continue adding to this one forever."
+},
+{
+    "image":"assets/reddead.jpg",
+    "Name":"Red Dead Redemption 2",
+    "Developer":"Rockstar Games, Rockstar North, Rockstar San Diego",
+    "Release":" October 26, 2018",
+    "Platforms":"Playstation 4, Xbox One",
+    "Price":"$60.00",
+    "Rating":"5",
+    "Review":"There is no other game that deserves to sit in the top spot. With Red Dead Redemption 2, Rockstar Games has created an 1899 America that is intimidatingly detailed. It contains neither the cynical satire of Grand Theft Auto V nor its amoral mayhem. Red Dead Redemption 2 is its own animal: an unblinking, tragic tale of doomed men and women leading doomed lives, and a damning deconstruction of the Wild West mythology. What does it mean to be free? What does it mean to be part of a family? And what does it mean to be a man in a world that seems like it’s passing you by?In retrospect, Red Dead Redemption 2 is the thematic opposite of Spider-Man. This is no vicarious power fantasy where you soar, unfettered, over the map like a miniature god. Instead, Arthur Morgan’s life is a series of dark-humored, karmic humiliations, one after the other. You’ll get kicked into the mud by an irritable horse. Muggers steal your money. People you trust betray you and put your life at risk. And no crime you commit ever goes well; you’ll have to shoot your way out, sometimes with little to show for it.After finishing the storyline, things loosen up a bit. You can hunt down a vampire or search for Bigfoot. You can go into a house, find blood smeared all over everything, and piece together a murder mystery. You can search the night sky for UFOs. You can track down bounties, and bring your perps in dead or alive. And that’s not even including Red Dead Online, which recently launched its beta.Red Dead Redemption 2 is Rockstar’s first game built exclusively for the current generation of consoles, and it shows. The developers have given us a world to not only play in but to live in. And chop wood in. And tame horses in. And rob carriages in. And play blackjack in. And bathe in. The list goes on and on."
+},
+{
+    "image":"assets/tetris.jpg",
+    "Name":"Tetris Effect",
+    "Developer":"Resonair, Monstars",
+    "Release":"November 9, 2018",
+    "Platforms":"PlayStation 4",
+    "Price":"$39.99",
+    "Rating":"3.2",
+    "Review":"Tetris is simple, yet addictive. Differently shaped, four-block puzzle pieces rain down from the sky, and you have to arrange them to form solid, horizontal lines. This game has been ported, rebooted, and reimagined on every platform imaginable, from the NES to graphing calculators to smartphones. But it’s never been reimagined quite like Tetris Effect.There are multiple customizable modes to this game: Journey Mode takes you through 27 differently themed “levels” and is the closest thing Tetris Effect has to a single-player campaign. All Clear Mode asks you to use predetermined blocks to clear lines, jigsaw puzzle-style. There’s even a Relax option in Effect Mode, which dials the tension down with soothing music and background visuals.The game’s main attraction is its beautiful visuals. Tetris is a game of the mind; Tetris Effect turns the sights of the game up a notch, giving you an exciting new experience."
+},
+{
+    "image":"assets/guac2.jpg",
+    "Name":"Guacamelee! 2",
+    "Developer":" DrinkBox Studios",
+    "Release":"August 21, 2018",
+    "Platforms":"Playstation 4, PC, Nintendo Switch",
+    "Price":"$40.00",
+    "Rating":"4.1",
+    "Review":"Guacamelee! 2, like the original Guacamelee!, is what gamers refer to as a “Metroidvania” game. If you’re an old-school gamer who loved Super Metroid or Castlevania: Symphony of the Night for their emphasis on exploration, upgrading, and backtracking, then you’ll love this. DrinkBox Studios puts a Mexican spin on a classic side-scroller formula. You play as Juan, a luchador with the ability to switch from the land of the living to the land of the dead. With its tricky platforming, touching storyline, and self-referential humor—at one point, Juan destroys a car near a shipping dock, similar to the bonus round in Street Fighter II—Guacamelee! 2 is a hardcore platformer. It is not an easy game, but you get unlimited chances to get things right."
+},
+{
+    "image":"assets/cs.png",
+    "Name":"Celeste",
+    "Developer":" Matt Makes Games, Noel Berry",
+    "Release":"January 25, 2018",
+    "Platforms":"Playstation 4, Xbox One, Nintendo Switch, PC, Mac",
+    "Price":"$39.99",
+    "Rating":"5.0",
+    "Review":"In retro-visual platformer Celeste, you climb a mountain by progressing through a number of single-screen puzzle levels. This is harder than it sounds; the game introduces new mechanics wordlessly, and you’ll have to use trial and error to figure out how they work. By the time you reach Chapter 4, and the wind is blowing you into the nearest pit or wall of spikes, à la Ninja Gaiden II, you’ll be ready to pull your hair out. Lots of modern games are akin to interactive movies; they aspire to be Hollywood narratives, and they sort of play themselves, so long as you steer them in the right direction. Celeste, however, is a “game” in the purest sense of the word and tells its story through play instead of cut-scenes."
+},
+{
+    "image":"assets/od.jpg",
+    "Name":"Return of The Obra Dinn",
+    "Developer":"Lucas Pope",
+    "Release":"October 18, 2018",
+    "Platforms":"Mac and Windows PC",
+    "Price":"$20.00",
+    "Rating":"4.7",
+    "Review":"Return of the Obra Dinn is a detailed, unique and beautiful murder mystery from Lucas Pope, the maker of Papers, Please. Drawn in retro monochrome, it’s set aboard an abandoned ship in 1805.The player is an insurance agent tasked with investigating the ship, seeking clues to the deaths and disappearances of its crew. By a process of elimination, the agent pieces together the tale of a torrid voyage."
+},
+{
+    "image":"assets/ass.jpg",
+    "Name":"Asasin's Creed Odyssey",
+    "Developer":"Ubisoft Quebec, Ubisoft Montreal, Ubisoft Singapore",
+    "Release":"October 5, 2018",
+    "Platforms":"PlayStation 4, Xbox One, Nintendo Switch, Microsoft Windows",
+    "Price":"$40.00",
+    "Rating":"4.8",
+    "Review":"Exploration, combat, stealth, role-playing progression and dialogue choice make up the core activities in this giant open world, but its kinetic elements don’t entirely do it justice. Assassin’s Creed Odyssey is a teeming saga of the Peloponnesian War, loaded with likable, believable characters, both fictional and drawn from history. Moody marine hues and bright Hellenic contrasts create an eye-pleasing world of mountains, meadows, cities and islands.The story twists a warm familial reunion narrative with a cold, hard search for vengeance against an evil cult. Hidden shipwrecks, mythical beasts, combat arenas and creepy tombs add to a sense of a fantastical, expansive world. Ubisoft built the Assassin’s Creed series on its big, dense open worlds. But Odyssey’s world feels like a turning point, loosening its focus on muted historical settings seen from grimny rooftops, and instead embracing vibrant colors, mythological beasts, and sprawling swaths of ocean and countryside."
+},
+{
+    "image":"assets/d2.jpg",
+    "Name":"Destiny 2: Foresaken",
+    "Developer":"Bungie",
+    "Release":"September 4, 2018",
+    "Platforms":"PlayStation 4, Xbox One, Microsoft Windows",
+    "Price":"$30.00",
+    "Rating":"4.5",
+    "Review":"A year after Destiny 2’s release, the Forsaken expansion reinvented the entire game. Bungie completely re-engineered the weapons system to offer more flexibility and increased access to powerful guns like shotguns and sniper rifles. The flow of every combat encounter feels different, yet the series’ fantastic gunplay remains intact.Forsaken also adds two new environments and Destiny’s best raid to date. PvP and the new hybrid PvEvP mode, Gambit, are faster and more enjoyable than the Guardian-on-Guardian combat of years past. Forsaken pours a foundation that the team at Bungie can build upon for years to come, starting with its new approach to seasonal content in the upcoming Annual Pass."
+},
+{
+    "image":"assets/nms.jpg",
+    "Name":"No Man's Sky Next",
+    "Developer":"Hello Games",
+    "Release":"August 9, 2016",
+    "Platforms":"PlayStation 4, Windows PC and Xbox One.",
+    "Price":"$29.99",
+    "Rating":"3.0",
+    "Review":"The No Man’s Sky Next update is the game No Man’s Sky appeared to be in its early trailers and demos. Players have been given more freedom to explore the universe as they see fit, be it constructing an underwater bases or assembling a massive fleet of frigates. Crafting systems are revamped, the UI enhanced and new music added. You almost never lack something new to do or discover. And you can now truly play online with three other players — exploring the galaxy, transferring resources and building bases."
+},
+{
+    "image":"assets/prey.jpg",
+    "Name":"Prey",
+    "Developer":"Arkane Studios",
+    "Release":"June 11, 2018",
+    "Platforms":"PlayStation 4, Windows PC and Xbox One.",
+    "Price":"$10.00",
+    "Rating":"3.4",
+    "Review":"In 2017, Bethesda released a handful of deep and inventive single-player games, including Prey, The Evil Within 2 and a stand-alone expansion to Dishonored 2. Critically lauded, none of them sold especially well, raising questions about the sustainability of smartly designed single-player games, particularly those in the immersive sim genre. Since then, some fans and critics have speculated on what the developers of these projects might be forced to create to stay alive. Vapid first-person shooters? Cynical battle royale games? Match-three apps?"
+},
+{
+    "image":"assets/sot.jpg",
+    "Name":"Sea Of Thieves",
+    "Developer":"Rare",
+    "Release":"March 20, 2018",
+    "Platforms":"Windows PC and Xbox One.",
+    "Price":"$60.00",
+    "Rating":"4.2",
+    "Review":"Sea of Thieves emerged as a promising game in need of more content — a chaotic pirate sandbox kept interesting by its players. The core concepts of the game have simmered over time, its flavors bolstered by a regular update schedule and new systems that enhance the the game’s appealing foundation.The beauty of Sea of Thieves is how organic and responsive it is. Very few systems stand between the player and the pirate sandbox. There are minimal menus, and goals are straightforward. The pirates’ tools have specific purposes, but can be manipulated in a variety of ways by clever players. And yet, when you combine all of the above and add other players to the mix, you end up with cinematic ship battles, dramatic betrayals and alliances, and an adventure that feels different from one session to the next."
+},
+{
+    "image":"assets/fn.jpg",
+    "Name":"Fortnite ",
+    "Developer":"Epic",
+    "Release":"July 25, 2017",
+    "Platforms":"iOS, Mac, Nintendo Switch, PlayStation 4, Windows PC, Xbox One",
+    "Price":"Free",
+    "Rating":"4.6",
+    "Review":"Don’t worry about being late to Fortnite Battle Royale. The creators of this colorful and constructive twist on the battle royale formula ensure that new players have plenty of chances to jump on board, constantly reimagining and retooling the map, weapons and modes. The most dramatic changes take place across seasons, reminiscent of Blizzard’s Hearthstone model. Over a couple of months, players progress through the ranks, unlocking new costumes, gliders and bonuses. And when the season wraps, everybody returns to zero. Of course, none of these upgrades and rewards give players an advantage on the battlefield, so if you don’t care about cosmetics, there’s no wrong time to start — or reason to spend money."
+},
+{
+    "image":"assets/pub.jpg",
+    "Name":"PlayerUnknown's Battlegrounds",
+    "Developer":"Bluehole, PUBG Corporation",
+    "Release":"March 23, 2017",
+    "Platforms":"Microsoft Windows,Xbox One, Android,PlayStation 4",
+    "Price":"$30.00",
+    "Rating":"4.0",
+    "Review":"The game was first released for Microsoft Windows via Steam's early access beta program in March 2017, with a full release on December 20, 2017. That same month, the game was released by Microsoft Studios for the Xbox One via its Xbox Game Preview program, and officially released in September 2018. The same year, a port for the PlayStation 4 was released, in addition to two different mobile versions for Android and iOS. The game is one of the best-selling of all time, with over fifty million sold across all platforms by June 2018. In addition, the Windows version holds a peak concurrent player count of over three million on Steam, which is an all-time high on the platform."
+},
+{
+    "image":"assets/jc4.jpg",
+    "Name":"Just Cause 4",
+    "Developer":"Avalanche Studios",
+    "Release":"December 4, 2018",
+    "Platforms":"PlayStation 4, Xbox One, Microsoft Windows",
+    "Price":"$50.00",
+    "Rating":"3.5",
+    "Review":"After wrapping up around 20 hours worth of Just Cause 4’s story missions and having destructive fun blowing up basically all the things, I went back and read my review of Just Cause 3 from 2015. This, I thought, explains that deja vu sensation. With a few additions, reading that review will tell you everything you need to know about Just Cause 4’s strengths. This is a very iterative sequel, and therefore it’s just as gloriously over-the-top and action-movie stupid as the last one. It does learn from and address many of Just Cause 3’s mistakes, especially when it comes to some of the more annoyingly repetitious mission types, but it doesn’t really come with a must-have new idea to give it its own identity.If you’re keeping track, this is now the fourth Latin tropical despot whom Rico Rodriguez – effectively the secret lovechild of Wolverine and a flying squirrel who is also a secret agent – has set out to depose. Adding the personal angle of Rodriguez family involvement in Dictator #4’s weather-control scheme means very little due to the completely twist-free nature of the story, especially since that dictator shows up only at the beginning and end. I did enjoy the way cutscenes lay out the next series of mission objectives as steps toward a long-term goal, almost Ocean’s 11-style, but otherwise it’s yet another tale of regime change via explosion."
+},
+{
+    "image":"assets/hm2.jpg",
+    "Name":"Hitman 2",
+    "Developer":"IO Interactive",
+    "Release":"November 13, 2018",
+    "Platforms":"PlayStation 4, Xbox One, Microsoft Windows",
+    "Price":"$59.99",
+    "Rating":"4.5",
+    "Review":"Hitman 2 is a stealth video game developed by IO Interactive and published by Warner Bros. Interactive Entertainment for Microsoft Windows, PlayStation 4, and Xbox One. It is the seventh entry in the Hitman video game series and is the sequel to the 2016 game Hitman."
+},
+{
+    "image":"assets/f76.jpg",
+    "Name":"Fallout 76",
+    "Developer":"Bethesda Game Studios, Bethesda Game Studios Austin",
+    "Release":"November 14, 2018",
+    "Platforms":" PlayStation 4, Xbox One, Microsoft Windows",
+    "Price":"$39.82",
+    "Rating":"2.8",
+    "Review":"After more than 50 hours plundering the irradiated wasteland of Fallout 76, the greatest mystery still lingering is who this mutated take on Fallout is intended for. Like many of Vault-Tec’s underground bunkers, Bethesda’s multiplayer riff on its post-nuclear RPG series is an experiment gone awry. There are bright spots entangled in this mass of frustratingly buggy and sometimes conflicting systems, but what fun I was able to salvage from the expansive but underpopulated West Virginia map was consistently overshadowed by the monotony of its gathering and crafting treadmill.On the surface, Fallout 76 is another dose of Bethesda’s tried-and-true open-world RPG formula on a larger-than-ever map that’s begging to be explored. As you emerge from Vault 76 you’ll start in a relatively peaceful forest and venture out into more dangerous pockets of the irradiated wasteland. My favorite is traveling the lengths of the Cranberry Bog, where the pinkish-red fields are seemingly inviting from afar but turn out to be full of a snaking system of trenches and alien forests that hide the worst horrors of the wasteland, but there are many more."
+},
+{
+    "image":"assets/b5.jpg",
+    "Name":"Battlefield v",
+    "Developer":"EA DICE, Criterion Software",
+    "Release":" November 9, 2018",
+    "Platforms":"Microsoft Windows, PlayStation 4, and Xbox One",
+    "Price":"$30.00",
+    "Rating":"3.7",
+    "Review":"With all of the development muscle behind EA DICE’s massive shooter, I didn’t expect going in that playing Battlefield V’s multiplayer would feel so much like discovering a very promising early access game. It appears that there’s a sizeable number of modes and major bug fixes still to be delivered. To its credit, a cavalcade of clever gameplay changes succeeds in taking the series’ standard 64-player warfare in a more tactical direction, but the execution of this long-awaited return to a World War II setting simply feels rushed. Still, there's plenty of dynamic FPS fun to be had in the Battlefield V of today, and it’s the kind of shooter I could see becoming one of the best in the series’ history after some substantial updates."
+},
+{
+    "image":"assets/c1.jpg",
+    "Name":"Sid Meier's Civiization VI",
+    "Developer":"Take-Two Interactive",
+    "Release":"October 2016",
+    "Platforms":"Nintendo Switch",
+    "Price":"$50.00",
+    "Rating":"4.5",
+    "Review":"Civilization VI will go down in history as the most fully-featured launch version in the series. Many of those are smartly revamped versions of Civ classics, but it finds its own identity with great new ideas like spread-out cities, customizeable governments, research boosts, and leader agendas. And even though the AI has some improving to do, it can put up enough of a fight to make world domination a challenge."
+},
+{
+    "image":"assets/wwe.jpg",
+    "Name":"WWE 2k19",
+    "Developer":"Yuke's, Visual Concepts",
+    "Release":"October 9, 2018",
+    "Platforms":"PlayStation 4, Xbox One, Microsoft Windows",
+    "Price":"$29.99",
+    "Rating":"4.1",
+    "Review":"like previous entries in the long running wrestling franchise, is a good game. The core wrestling does a great job of simulating a WWE match, and the strike/grapple/reversal fighting system is a lot of fun. It’s got one of the best and most comprehensive creation suites of any game out there, and the way that it basically lets you do everything that wrestlers do in real life, in WWE 2K19, is kind of astounding. But those are all things that have remained true for a long while now, and while WWE 2K19 goes to great lengths to fix it’s biggest flaws from last year, it still leaves a lot of long-standing issues unchecked that limit the otherwise significant improvements over 2K18."
+},
+{
+    "image":"assets/coc.jpg",
+    "Name":"Call of Cthulhu: The Official Video Game",
+    "Developer":" Cyanide",
+    "Release":"October 30, 2018",
+    "Platforms":"PlayStation 4, Xbox One, Microsoft Windows",
+    "Price":"$59.99",
+    "Rating":"3.9",
+    "Review":"dark and intriguing detective story to rapidly spiral down the well of occult madness. Inspired by the legendary Chaosium RPG of the same name, it tells its Lovecraftian tale with writing so strong that I couldn’t help but get sucked into the immersive atmosphere it created. The story itself can be confusing in spots, and some rougher mechanics and levels do rear up occasionally, but Call of Cthulhu still delivers what is perhaps one of the finest cosmic horror experiences in modern gaming. The hero of this story is Edward Pierce, a grizzled veteran and alcoholic PI who acts mostly as a blank slate for you to experience the story through. There really isn’t much to the character beyond the many choices you make for him, shaped by which skills you choose to upgrade. In the beginning, I found Pierce’s somewhat wooden portrayal a little jarring, but as I made him my own by focusing heavily in the stats that intrigued me most – like Investigation and Eloquence – and then leaned on those skills in my conversations and investigations, I rapidly became invested in his tortured tale."
+},
+{
+    "image":"assets/jw.jpg",
+    "Name":"Jurassic World Evolution",
+    "Developer":"Frontier Developments plc",
+    "Release":"June 12, 2018",
+    "Platforms":"PlayStation 4, Xbox One, Microsoft Windows",
+    "Price":"$59.99",
+    "Rating":"4.0",
+    "Review":"What could possibly go wrong when managing an island amusement park full of giant, man-eating monsters? Lots of things, though in this case they’re not the kind that lead to good gameplay. With so few interesting decisions and so much mundane busywork going on in Jurassic World Evolution, there is no need to, as Samuel L. Jackson once famously recommended, “hold onto your butts.”Jeff Goldblum lends his recognizable-anywhere voice to some of the narration as Dr. Ian Malcolm, and he’s clearly having a lot of fun with the pronunciation of the islands’ names – just wait until you hear him say “Isla Matanceros” in the opening flyover cutscene – but otherwise it very much sounds like his first read-through of the script. Opposite him are a handful of Jurassic World actors, including Bryce Dallas Howard and B.D. Wong, and then there’s someone voicing Chris Pratt's character who doesn’t even seem to be making an attempt at impersonating him."
+}
+]
+}

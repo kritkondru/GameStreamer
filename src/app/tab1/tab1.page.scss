@@ -1,0 +1,34 @@
+.welcome-card ion-img {
+  max-height: 60vh;
+ overflow: hidden;
+}
+#welcome{
+  background-color:black;
+}
+#w1{
+  color:white;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+
+#sub-welcome{
+background-color:black;
+}
+#maindiv{
+  background-color:black;
+}
+
+#title{
+  background:var( --ion-title-color);
+  
+}
+
+#p1{
+  color:white;
+  text-align: center;
+}
+
+#b1:hover{
+  color:gray;
+}

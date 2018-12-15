@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title id="title">{{Name}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content id="content">
+  <div id="carddiv">
+  <ion-card>
+<ion-img src={{image}}></ion-img>
+<ion-item>Name:  {{Name}}</ion-item>
+<ion-item>Developer:  {{Developer}}</ion-item>
+<ion-item>Release:  {{Release}}</ion-item>
+<ion-item>Platforms:  {{Platforms}}</ion-item>
+<ion-item>Price: {{Price}}</ion-item>
+<ion-item>Rating:  {{Rating}}</ion-item>
+<h2>Review:</h2> <p>{{Review}}</p>
+<ion-button shape="round" color="light" fill="outline" expand="full" (click)="exit()">Back</ion-button>
+</ion-card>
+</div>
+</ion-content>
